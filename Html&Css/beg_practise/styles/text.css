@@ -1,0 +1,61 @@
+p{
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+
+   .video-title{
+    /* font-family: Arial, Helvetica, sans-serif; */
+
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    /* margin-top: 0; */
+    /* text-align: center; */
+    width: 450px;
+    line-height: 30px;
+    margin-bottom: 8px;
+   }
+   .view{
+    font-size: 18px;
+    color: grey;
+    /* font-family: Arial; */
+    /* margin-top: 0; */
+    margin-bottom: 15px;
+    
+   }
+   .Author{
+    /* margin-top: 0; */
+    font-weight: bold;
+    /* font-family: Arial; */
+    color: grey;
+    font-size: 18px;
+    margin-bottom: 18px;
+   }
+   .description{
+    /* margin-top:0 ; */
+    /* font-family: Arial; */
+    font-size: 18px;
+    font-weight: bold;
+    width: 650px;
+    line-height: 20px;
+    color: grey;
+    margin-bottom: 150px;
+   }
+   .text{
+    margin-bottom: 100px;
+    font-size: 18px;
+    background-color: rgb(227, 65, 64);
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+   }
+   .span-class{
+    cursor: pointer;
+    margin-left: 12px;
+   }
+   .span-class:hover{
+    text-decoration: underline;
+   }
